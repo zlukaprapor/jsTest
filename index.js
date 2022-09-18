@@ -1,3 +1,4 @@
+//Lab 1-2
 let arr = [];
 
 const MAX = 24 * 5 + 50;
